@@ -7,9 +7,9 @@ A quick analysis of the Titanic passenger dataset using Microsoft Excel.
 - Age distribution among passengers
 - Boarding location summary
 
-## 📁 Files
-- `Titanic_Analysis.xlsx` - Excel workbook with analysis and charts
-- `Screenshots/titanic_dashboard.png` - Preview of the Excel dashboard
+## 📁 Download Files
+- [Titanic_Analysis.xlsx](Excel/Titanic_Analysis.xlsx)
+- [View Dashboard Screenshot](Screenshots/titanic_dashboard.png)
 
 ## ℹ️ Note
 This analysis uses a sample of the Titanic dataset for practice and demonstration purposes.
